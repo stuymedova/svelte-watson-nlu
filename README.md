@@ -32,4 +32,4 @@ npm run dev
 
 <img width="1552" alt="svelte-watson-nlu" src="https://user-images.githubusercontent.com/53351370/127515357-4d99049d-50df-4110-a1e9-92a9b5135c57.png">
 
-*Articles are taken from [MIT Technology Review](https://www.technologyreview.com/topic/artificial-intelligence/)
+*Articles were taken from [MIT Technology Review](https://www.technologyreview.com/topic/artificial-intelligence/)
